@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/536543428.svg)](https://doi.org/10.5281/zenodo.14959849)
+
 # CPR Algorithm <img src="src/readme/logo.png" align="right" width="200" />
 
 ### Description
